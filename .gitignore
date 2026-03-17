@@ -1,3 +1,7 @@
+# editor
+.idea
+.vscode
+
 # Compiled class file
 *.class
 
